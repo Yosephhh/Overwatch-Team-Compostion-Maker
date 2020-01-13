@@ -1,0 +1,8 @@
+You Can simply run the file without command line arguments:
+
+python -u O_TCM.py
+
+Or pass the BattleTags as a command liine argument.
+Make sute to check MAX and MIN number of players in the O_TCM.py file 
+
+python -u O_TCM.py Kanor#1507 lhcloudy#2273 KSAA#21785 Kitty#23844
