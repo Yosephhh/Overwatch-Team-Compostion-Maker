@@ -1,5 +1,5 @@
 # Overwatch-Team-Compostion-Maker
-## A Character Assignment and coaching Tool For The Modern Era
+## A Character Assignment and Coaching Tool For The Modern Era
 
 # About 
 Overwatch is video game played under a fast paced environment that requires lots of quick decision making.
