@@ -1,0 +1,47 @@
+{
+  "Kanor": {
+    "BattleTag": "1507",
+    "TotalWins": "912",
+    "Hero": "Widowmaker",
+    "HeroClass": "Support",
+    "WinsWithThisHero": "107",
+    "QuickScore": 13351,
+    "logo": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/b539f89bee984e94dd30e596a8c257c0699931b68fbe53a527a86442bd63644c.png"
+  },
+  "lhcloudy": {
+    "BattleTag": "2273",
+    "TotalWins": "547",
+    "Hero": "Zarya",
+    "HeroClass": "Damage",
+    "WinsWithThisHero": "50",
+    "QuickScore": 14046,
+    "logo": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/05ef28392a54d57b63ee7d46d14585972308f3a00dc9c069535a21b1bfcebef8.png"
+  },
+  "KSAA": {
+    "BattleTag": "21785",
+    "TotalWins": "257",
+    "Hero": "Roadhog",
+    "HeroClass": "Tank",
+    "WinsWithThisHero": "100",
+    "QuickScore": 12711,
+    "logo": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a3d0137926328df8535d59f7f9f1cf1762e2e74e54127bc8342007fbe8ad0f2c.png"
+  },
+  "Kitty": {
+    "BattleTag": "23844",
+    "TotalWins": "189",
+    "Hero": "Widowmaker",
+    "HeroClass": "Support",
+    "WinsWithThisHero": "67",
+    "QuickScore": 5525,
+    "logo": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/347fad61d45f79024a36a2aa86800bb493be444bc4cec5347f3cb25747e3fe86.png"
+  },
+  "Ricky": {
+    "BattleTag": "22536",
+    "TotalWins": "343",
+    "Hero": "Genji",
+    "HeroClass": "Damage",
+    "WinsWithThisHero": "54",
+    "QuickScore": 9402,
+    "logo": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/71a4a9637c12bbe942f3faac73d7a87260f7ca6e2db7729915240a6459745135.png"
+  }
+}
