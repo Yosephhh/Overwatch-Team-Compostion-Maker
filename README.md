@@ -79,6 +79,6 @@ $ conda activate AnacondaPrompt
 ```bash
 python -u O_TCM.py Kanor#1507 lhcloudy#2273 KSAA#21785 Kitty#23844
 ```
-## Go To [Overbuff](https://www.overbuff.com/players/pc/) For Players Stats And Battle Tags.
+## Go To [Overbuff.com](https://www.overbuff.com/rankings?platform=pc) For Players Stats And Battle Tags.
 
 # :>> Enjoy.
