@@ -75,7 +75,7 @@ $ conda activate AnacondaPrompt
 ```bash
 (AnacondaPrompt) $ python -u O_TCM.py
 ```
-### Run The App With Command Line Arguments (This Are Real Players)
+### Run The App With Command Line Arguments (These Are Real Players)
 ```bash
 python -u O_TCM.py Kanor#1507 lhcloudy#2273 KSAA#21785 Kitty#23844
 ```
